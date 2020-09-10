@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there ,I'm Surabhi 👋
 
-<!--
-**Surbi-22/Surbi-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student, ML enthusiast,CETian and Electronics Engineering Aspirant!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ML and DL !
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 Goals: Contribute more to Open Source projects, work on a good domain.
+- ⚡ Fun fact: I like music , and I write tech blogs ,website link given above.
+
+
+
+### Connect with me:
+
+[<img align="left" alt="Surabhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Surabhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Surabhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### My interests:
+
+- Python
+- Machine learning
+- Programming
+
+
+<br />
+
+
+### 📕 Latest Blog Posts
+
+
+➡️ [blog posts on...](https://techwakerai.blogspot.com/)
+
+
+
+[website]: https://techwakerai.blogspot.com/
+[twitter]: https://twitter.com/SURABHI26854442?s=08
+[instagram]: https://instagram.com/surbi__22?igshid=1se96e17somgh
+[linkedin]: https://www.linkedin.com/in/surabhi-s-74b7801a9
