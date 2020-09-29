@@ -3,8 +3,8 @@
 
 ## I'm a Student, ML enthusiast,CETian and Electronics Engineering Aspirant!
 
-- 🔭 I’m currently working on ML and DL !
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Python , ML and DL !
+- 🌱 I’m currently learning everything 🤞
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects, work on a good domain.
 - ⚡ Fun fact: I like music , and I write tech blogs ,website link given above.
