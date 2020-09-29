@@ -24,12 +24,13 @@
 - Python
 - Machine learning
 - Programming
+- Embedded systems
 
 
 <br />
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts - On TechWaker
 
 
 ➡️ [Machine Learning](https://techwakerai.blogspot.com/search/label/Machine%20Learning?&max-results=5)<br>
