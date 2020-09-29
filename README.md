@@ -32,7 +32,10 @@
 ### 📕 Latest Blog Posts
 
 
-➡️ [blog posts on...](https://techwakerai.blogspot.com/)
+➡️ [Machine Learning](https://techwakerai.blogspot.com/search/label/Machine%20Learning?&max-results=5)<br>
+➡️ [IoT](https://techwakerai.blogspot.com/search/label/IOT?&max-results=5)<br>
+➡️ [Electronics](https://techwakerai.blogspot.com/search/label/Electronic%20Devices?&max-results=5)<br>
+➡️ [Embedded Systems](https://techwakerai.blogspot.com/search/label/Embedded%20Systems?&max-results=5)
 
 
 
