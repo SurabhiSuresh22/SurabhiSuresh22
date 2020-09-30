@@ -40,6 +40,7 @@
 <br>
 ### Favorite repos❤<br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Iris_Flower_Prediction&theme=dark)](https://github.com/Surbi-22/Iris_Flower_Prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Virtual-Assistant&theme=dark)](https://github.com/Surbi-22/Virtual-Assistant)
 
 [website]: https://techwakerai.blogspot.com/
 [twitter]: https://twitter.com/SURABHI26854442?s=08
