@@ -9,7 +9,7 @@
 - 🥅 Goals: Contribute more to Open Source projects, work on a good domain.
 - ⚡ Fun fact: I like music , and I write tech blogs ,website link given above.
 
-
+<hr>
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
 [<img align="left" alt="Surabhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<hr>
 ### My interests:
 
 - Python
@@ -26,7 +26,7 @@
 - Programming
 - Embedded systems
 
-
+<hr>
 <br />
 
 
@@ -37,6 +37,7 @@
 ➡️ [IoT](https://techwakerai.blogspot.com/search/label/IOT?&max-results=5)<br>
 ➡️ [Electronics](https://techwakerai.blogspot.com/search/label/Electronic%20Devices?&max-results=5)<br>
 ➡️ [Embedded Systems](https://techwakerai.blogspot.com/search/label/Embedded%20Systems?&max-results=5)<br>
+<hr>
 <br>
 ### Favorite repos❤<br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Iris_Flower_Prediction&theme=dark)](https://github.com/Surbi-22/Iris_Flower_Prediction)
