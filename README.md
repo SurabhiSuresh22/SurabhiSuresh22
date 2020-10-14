@@ -3,7 +3,7 @@
 
 ## I'm a Student, ML enthusiast,CETian and Electronics Engineering Aspirant!
 
-- 🔭 I’m currently working on Python , ML and DL !
+- 🔭 I’m currently working on Python , ML , DL and RL !
 - 🌱 I’m currently learning everything 🤞
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects, work on a good domain.
@@ -24,7 +24,7 @@
 
 - Python
 - Machine learning
-- Programming
+- Reinforcement Learning
 - Embedded systems
 
 <hr>
