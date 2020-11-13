@@ -41,12 +41,12 @@
 
 
 ### Favorite repos❤<br><br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Iris_Flower_Prediction&theme=dark)](https://github.com/Surbi-22/Iris_Flower_Prediction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Virtual-Assistant&theme=dark)](https://github.com/Surbi-22/Virtual-Assistant)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Email-Automation&theme=dark)](https://github.com/Surbi-22/Email-Automation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surbi-22&repo=Portfolio-Website&theme=dark)](https://github.com/Surbi-22/Portfolio-Website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Iris_Flower_Prediction&theme=dark)](https://github.com/SurabhiSuresh22/Iris_Flower_Prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Virtual-Assistant&theme=dark)](https://github.com/SurabhiSuresh22/Virtual-Assistant)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Email-Automation&theme=dark)](https://github.com/SurabhiSuresh22/Email-Automation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Portfolio-Website&theme=dark)](https://github.com/SurabhiSuresh22/Portfolio-Website)
 
 [website]: https://techwakerai.blogspot.com/
-[twitter]: https://twitter.com/SURABHI26854442?s=08
+[twitter]: https://twitter.com/SurabhiSuresh22
 [instagram]: https://instagram.com/surbi__22?igshid=1se96e17somgh
-[linkedin]: https://www.linkedin.com/in/surabhi-s-74b7801a9
+[linkedin]: https://www.linkedin.com/in/surabhisuresh22
