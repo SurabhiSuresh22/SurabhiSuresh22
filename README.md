@@ -4,7 +4,7 @@ SurabhiSuresh22" /> </p>
 ### Hi there ,I'm Surabhi 👋
 
 
-## I'm a Student, ML enthusiast,CETian and Electronics Engineering Aspirant!
+## I'm a Student, Web Development enthusiast,CETian and Electronics Engineering Aspirant!
 
 - 🔭 I’m currently working on Python , ML , DL and RL !
 - 🌱 I’m currently learning everything 🤞
