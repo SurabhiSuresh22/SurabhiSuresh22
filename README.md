@@ -4,9 +4,9 @@ SurabhiSuresh22" /> </p>
 ### Hi there ,I'm Surabhi 👋
 
 
-## I'm a Student, Web Development enthusiast,CETian and Electronics Engineering Aspirant!
+## I'm a Student, Web Development enthusiast!
 
-- 🔭 I’m currently working on Python , ML , DL and RL !
+- 🔭 I’m currently working on Python , Node JS, React !
 - 🌱 I’m currently learning everything 🤞
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects, work on a good domain.
@@ -26,9 +26,8 @@ SurabhiSuresh22" /> </p>
 ### My interests:
 
 - Python
+- Web Development 
 - Machine learning
-- Reinforcement Learning
-- Embedded systems
 
 <hr>
 
