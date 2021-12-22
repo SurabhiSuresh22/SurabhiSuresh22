@@ -31,7 +31,6 @@ SurabhiSuresh22" /> </p>
 
 <hr>
 
-
 ### 📕 Latest Blog Posts - On TechWaker
 
 
@@ -52,3 +51,12 @@ SurabhiSuresh22" /> </p>
 [twitter]: https://twitter.com/SurabhiSuresh22
 [instagram]: https://instagram.com/surbi__22?igshid=1se96e17somgh
 [linkedin]: https://www.linkedin.com/in/surabhisuresh22
+
+<br>
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurabhiSuresh22&theme=dark&hide_langs_below=1" />
+</a>
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurabhiSuresh22&show_icons=true&theme=dark&line_height=27" alt="github stats"/>
+</a>
