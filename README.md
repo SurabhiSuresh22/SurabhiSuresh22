@@ -7,10 +7,7 @@ SurabhiSuresh22" /> </p>
 ## I'm a Student, Web Development enthusiast!
 
 - 🔭 I’m currently working on Python , Node JS, React !
-- 🌱 I’m currently learning everything 🤞
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects, work on a good domain.
-- ⚡ Fun fact: I like music , and I write tech blogs ,website link given above.
+- ⚡ I like music , and I write tech blogs ,website link given above.
 
 <hr>
 
@@ -42,7 +39,6 @@ SurabhiSuresh22" /> </p>
 
 
 ### Favorite repos❤<br><br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Iris_Flower_Prediction&theme=dark)](https://github.com/SurabhiSuresh22/Iris_Flower_Prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Virtual-Assistant&theme=dark)](https://github.com/SurabhiSuresh22/Virtual-Assistant)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Email-Automation&theme=dark)](https://github.com/SurabhiSuresh22/Email-Automation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Portfolio-Website&theme=dark)](https://github.com/SurabhiSuresh22/Portfolio-Website)
