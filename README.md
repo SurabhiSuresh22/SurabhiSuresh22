@@ -39,9 +39,8 @@ SurabhiSuresh22" /> </p>
 
 
 ### Favorite repos❤<br><br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Virtual-Assistant&theme=dark)](https://github.com/SurabhiSuresh22/Virtual-Assistant)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Email-Automation&theme=dark)](https://github.com/SurabhiSuresh22/Email-Automation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Portfolio-Website&theme=dark)](https://github.com/SurabhiSuresh22/Portfolio-Website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=React-Netflix-Clone&theme=dark)](https://github.com/SurabhiSuresh22/React-Netflix-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SurabhiSuresh22&repo=Budget-Calculator-React&theme=dark)](https://github.com/SurabhiSuresh22/Budget-Calculator-React)
 
 [website]: https://techwakerai.blogspot.com/
 [twitter]: https://twitter.com/SurabhiSuresh22
